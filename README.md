@@ -4,4 +4,13 @@
 
 ### Just cut paste the code into your system and run(compile) it. ###
 
-#### Includes proramm for: ####
+#### Includes program of types: ####
+- recursion
+
+
+
+
+
+#### Included codes of: ####
+* suduko  ``` ./recursion/suduko.cpp``` 
+
