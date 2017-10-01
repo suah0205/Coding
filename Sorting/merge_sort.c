@@ -23,6 +23,7 @@ int merge(int lf[], int rt[], int a[], int m, int n)
 int divide(int a[], int n)
 {
 	int i,lf[n/2],rt[n-n/2];
+	int aman=0;
 	if(n<=1)
 		return;
 
