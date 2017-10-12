@@ -1,9 +1,4 @@
-#include <iostream>
-#include <string>
-#include <iostream>
-
-#include <stack>
-
+#includ<bits/stdc++.h>
 using namespace std;
 
 int main(){
@@ -27,7 +22,6 @@ int main(){
 			x=q.top();
 			cout << x << endl;
 			q.pop();
-			//q.push(x);
 		}
 	}
  	else if(c=='q' || c=='Q'){
