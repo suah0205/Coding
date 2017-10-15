@@ -1,6 +1,4 @@
-#include<stdio.h>
-#include<string.h>
-
+#include<bits/stdc++.h>
 int main(){
 	int n;
 	int space,star,star2;
